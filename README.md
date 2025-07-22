@@ -62,7 +62,7 @@ Combine all your skills to build a complete, production-ready system.
 
 ---
 
-### 9. ☁️ DevOps, Deployment & Cloud Computing
+### 9. ☁️ DevOps engineering, Deployment & Cloud computing
 **Master the Cloud Revolution**  
 Level up your DevOps and Cloud expertise.  
 > ✅ Docker, Kubernetes, Terraform, Jenkins, CI/CD Pipelines, AWS Certified Developer Associate (DVA-C02)
